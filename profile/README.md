@@ -1,5 +1,7 @@
 ﻿<div align="center">
 
+<img src="assets/r3b0rns-command-center.svg" alt="R3B0RNSH4D0WS rendered security operations command center" width="100%">
+
 <img src="assets/r3b0rns-team-orbit.svg" alt="R3B0RNSH4D0WS animated cyber team banner" width="100%">
 
 # R3B0RNSH4D0WS
